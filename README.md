@@ -28,5 +28,6 @@ Implementation guidelines and certified solution
 
 Results
 
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/f09f4f1b-81ee-4654-9058-6575ce7d87fd" />
 
-
+As we can see it is an almost perfect match with the solution given by UCL. Only one state-action pair was incorrectly learned, likely due to an insufficient number of training episodes.
