@@ -23,10 +23,10 @@ Large number of games played with the optimal policy to show the casinos edge.
 
 Implementation guidelines
 
-<img width="1008" alt="Screenshot 2025-04-14 at 15 18 06" src="https://github.com/user-attachments/assets/2f5e89b6-d76b-49b5-82c1-d9b01c489c69" />
+<img width="500" alt="Screenshot 2025-04-14 at 15 18 06" src="https://github.com/user-attachments/assets/2f5e89b6-d76b-49b5-82c1-d9b01c489c69" />
 
 
 Results (compared to certified solution)
 
-<img width="1008" alt="Screenshot 2025-04-15 at 10 58 29" src="https://github.com/user-attachments/assets/27c413cf-c5af-44a7-a70f-ad7f7d13f120" />
+<img width="500" alt="Screenshot 2025-04-15 at 10 58 29" src="https://github.com/user-attachments/assets/27c413cf-c5af-44a7-a70f-ad7f7d13f120" />
 
